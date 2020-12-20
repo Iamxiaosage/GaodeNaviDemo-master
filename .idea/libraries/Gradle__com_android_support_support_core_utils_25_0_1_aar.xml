@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-core-utils:25.0.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.android/build-cache/fd3b02b065bd2a63837376090bbeb6af81e9c73d/output/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/fd3b02b065bd2a63837376090bbeb6af81e9c73d/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/fd3b02b065bd2a63837376090bbeb6af81e9c73d/output/res" />
+      <root url="file://$USER_HOME$/.android/build-cache/fd3b02b065bd2a63837376090bbeb6af81e9c73d/output/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.android/build-cache/fd3b02b065bd2a63837376090bbeb6af81e9c73d/output/jars/libs/internal_impl-25.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://E:/Android/SDK/extras/android/m2repository/com/android/support/support-core-utils/25.0.1/support-core-utils-25.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://E:/Android/SDK/extras/android/m2repository/com/android/support/support-core-utils/25.0.1/support-core-utils-25.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

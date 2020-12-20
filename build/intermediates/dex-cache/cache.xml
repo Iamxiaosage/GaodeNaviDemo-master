@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\AndroidProject\Juguo\SeekFriendsProject\SeekFriends\app\libs\AMap_Location_V4.4.0_20181122.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5e283ef1d7ba3d1291b2c35671ddff6d1b3564b3">
+        <dex dex="D:\AndroidProject\Juguo\SeekFriendsProject\SeekFriends\app\build\intermediates\pre-dexed\debug\AMap_Location_V4.4.0_20181122_f255027cf8aa0ca18a5108676b9ea46683f99347.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidProject\Juguo\SeekFriendsProject\SeekFriends\app\libs\AMap_Search_V6.5.0_20180930.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="093c0e039096f1e2506aa5e4f7ee6b6dc066bb5e">
+        <dex dex="D:\AndroidProject\Juguo\SeekFriendsProject\SeekFriends\app\build\intermediates\pre-dexed\debug\AMap_Search_V6.5.0_20180930_7145fecd129e178b33687957f2eb4118f5830b29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidProject\Juguo\SeekFriendsProject\SeekFriends\app\libs\AMap3DMap_6.6.0_AMapNavi_6.5.0_20181221.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d566de1457c0d032ed1bacc52d828224974cafcd">
+        <dex dex="D:\AndroidProject\Juguo\SeekFriendsProject\SeekFriends\app\build\intermediates\pre-dexed\debug\AMap3DMap_6.6.0_AMapNavi_6.5.0_20181221_4e061bcc20e779e0546b592cbfdb662735f8085b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidProject\Juguo\SeekFriendsProject\SeekFriends\app\libs\Msc.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8510322f74ac68f2dc144a0b0aae1ae7c8fb0103">
+        <dex dex="D:\AndroidProject\Juguo\SeekFriendsProject\SeekFriends\app\build\intermediates\pre-dexed\debug\Msc_894edbe1ca7baa705f862451590d834cafcc5d60.jar" />
+    </item>
+
+</items>
